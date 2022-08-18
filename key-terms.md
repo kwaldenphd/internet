@@ -16,19 +16,16 @@
 - "In wired computer networking, including the Internet, a hop occurs when a packet is passed from one network segment to the next. Data packets pass through routers as they travel between source and destination. The hop count refers to the number of network devices through which data passes from source to destination" ([Wikipedia](https://en.wikipedia.org/wiki/Hop_(networking)))
 
 **Hyerlinks & Hypertext**
-- "In computing, a hyperlink, or simply a link, is a reference to data that the user can follow by clicking or tapping.[1] A hyperlink points to a whole document or to a specific element within a document. Hypertext is text with hyperlinks" ([Wikipedia](https://en.wikipedia.org/wiki/Hyperlink))
+- "In computing, a hyperlink, or simply a link, is a reference to data that the user can follow by clicking or tapping. A hyperlink points to a whole document or to a specific element within a document. Hypertext is text with hyperlinks" ([Wikipedia](https://en.wikipedia.org/wiki/Hyperlink))
 
 **Hypertext Transfer Protocol (HTTP)**
 - "The Hypertext Transfer Protocol (HTTP) is an application protocol for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser" ([Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol))
 
 **Hypertext Markup Language (HTML)**
-- “HyperText Markup Language, invented by Tim Berners-Lee as the basis for the World Wide Web….based on the international standard SGML (Standardized Generalized Markup Language), which was originally developed for the representation of print documents in electronic form. HTML created a notation for hypertext that has become the global standard, and provided the basis for the standardized linking and display of documents independent of the platform, operating system, and application in which they were created.” (Murray, 424)
+- “HyperText Markup Language, invented by Tim Berners-Lee as the basis for the World Wide Web….based on the international standard SGML (Standardized Generalized Markup Language), which was originally developed for the representation of print documents in electronic form. HTML created a notation for hypertext that has become the global standard, and provided the basis for the standardized linking and display of documents independent of the platform, operating system, and application in which they were created.” (Janet Murray, *[Inventing the Medium: Principles of Interaction Design as a Cultural Practice](https://mitpress.mit.edu/9780262016148/inventing-the-medium/)*, pp. 424)
 
 **Internet**
 - "The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies" ([Wikipedia](https://en.wikipedia.org/wiki/Internet))
-
-**Internet of Things**
-- "The Internet of things (IoT) describes physical objects (or groups of such objects) with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks" ([Wikipedia](https://en.wikipedia.org/wiki/Internet_of_things))
 
 **Internet Protocol (IP)**
 - "The Internet protocol suite is the conceptual model and set of communications protocols used in the Internet and similar computer networks. It is commonly known as TCP/IP because the foundational protocols in the suite are the Transmission Control Protocol (TCP) and the Internet Protocol (IP). The Internet protocol suite provides end-to-end data communication specifying how data should be packetized, addressed, transmitted, routed, and received. This functionality is organized into four abstraction layers, which classify all related protocols according to the scope of networking involved. From lowest to highest, the layers are the link layer, containing communication methods for data that remains within a single network segment (link); the internet layer, providing internetworking between independent networks; the transport layer, handling host-to-host communication; and the application layer, providing process-to-process data exchange for applications" ([Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite))
@@ -38,13 +35,17 @@
 
 **Internet Service Provider (ISP)**
 - "An Internet service provider (ISP) is an organization that provides services for accessing, using, or participating in the Internet. ISPs can be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned" ([Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider))
+- Common commercial ISPs in the U.S. include: AT&T, Verizon, Xfinity, Comcast, Windstream
+
+**Internet of Things**
+- "The Internet of things (IoT) describes physical objects (or groups of such objects) with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks" ([Wikipedia](https://en.wikipedia.org/wiki/Internet_of_things))
 
 **Local Area Networks (LAN)**
 - "A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building. By contrast, a wide area network (WAN) not only covers a larger geographic distance, but also generally involves leased telecommunication circuits. Ethernet and Wi-Fi are the two most common technologies in use for local area networks" ([Wikipedia](https://en.wikipedia.org/wiki/Local_area_network))
 
 **Markup Language**
- - "In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text" ([Wikipedia](https://en.wikipedia.org/wiki/Markup_language))
- - [Click here](https://youtu.be/C0ivP3KYO3A) to learn more about markup languages.
+- "In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text" ([Wikipedia](https://en.wikipedia.org/wiki/Markup_language))
+- [Click here](https://youtu.be/C0ivP3KYO3A) to learn more about markup languages.
 
 **Media Access Control (MAC) Address**
 - "A media access control address (MAC address) is a unique identifier assigned to a network interface controller (NIC) for use as a network address in communications within a network segment. This use is common in...networking technologies, including Ethernet, Wi-Fi, and Bluetooth...As typically represented, MAC addresses are recognizable as six groups of two hexadecimal digits, separated by hyphens, colons, or without a separator" ([Wikipedia](https://en.wikipedia.org/wiki/MAC_address))
@@ -76,7 +77,7 @@
 - "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions on the Internet. Data sent through the internet, such as a web page or email, is in the form of data packets. A packet is typically forwarded from one router to another router through the networks that constitute an internetwork (e.g. the Internet) until it reaches its destination node" ([Wikipedia](https://en.wikipedia.org/wiki/Router_(computing)))
 
 **Tag**
-- “A heading in a web page as indexing, structural, or formatting terms. Formatting tags identify structural parts of a document, such as <heading> or display <italics>.” (Murray, 440)
+- “A heading in a web page as indexing, structural, or formatting terms. Formatting tags identify structural parts of a document, such as <heading> or display <italics>.” (Janet Murray, *[Inventing the Medium: Principles of Interaction Design as a Cultural Practice](https://mitpress.mit.edu/9780262016148/inventing-the-medium/)*, pp. 440)
 
 **Top-Level Domains (TLDs)**
 - "A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain" ([Wikipedia]())
@@ -86,13 +87,14 @@
 - "The Transmission Control Protocol (TCP) is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol (IP). Therefore, the entire suite is commonly referred to as TCP/IP" ([Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol))
   
 **Uniform Resource Locator (URL)**
-- "A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably" ([Wikipedia]())
+- "A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably" ([Wikipedia](https://en.wikipedia.org/wiki/URL))
 
 **User Datagram Protocol (UDP)**
 - "In computer networking, the User Datagram Protocol (UDP) is one of the core members of the Internet protocol suite. With UDP, computer applications can send messages, in this case referred to as datagrams, to other hosts on an Internet Protocol (IP) network" ([Wikipedia](https://en.wikipedia.org/wiki/User_Datagram_Protocol))
   
 **Web Browsers**
 - "A web browser (also referred to as an Internet browser or simply a browser) is application software for accessing the World Wide Web or a local website. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the user's device" ([Wikipedia](https://en.wikipedia.org/wiki/Web_browser))
+- Sample web browsers: Internet Exporer, Microsoft Edge, Mozilla Firefox, Safari, Google Chrome
 
 **Web Search**
 - "A search engine is a software system designed to carry out web searches. They search the World Wide Web in a systematic way for particular information specified in a textual web search query" ([Wikipedia](https://en.wikipedia.org/wiki/Search_engine))
