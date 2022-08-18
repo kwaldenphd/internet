@@ -214,7 +214,7 @@ TRACEROUTE, GET YOUR IP
 
 ## Key Terms
 
-<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/WWW_Berns_Lee.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/WWW_Berners_Lee.png?raw=true" width="500"></p>
 
 **World Wide Web (WWW)**
 - "The World Wide Web (WWW), commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://www.example.com/), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are transferred via the Hypertext Transfer Protocol (HTTP) and may be accessed by users by a software application called a web browser and are published by a software application called a web server" ([Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web))
