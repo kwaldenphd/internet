@@ -230,6 +230,9 @@ DIAGRAM
 **Hypertext Markup Language (HTML)**
 - DD
 
+**Tag**
+- DD
+
 **Cascading Style Sheets (CSS)**
 - DD
 
@@ -258,6 +261,13 @@ BUILDING A WEBSITE
 
 To learn more about how the internet works, including concepts like encryption, privacy, and regulation:
 - Article 19 and Catnip, *[How the Internet Really Works: An Illustrated Guide to Protocols, Privacy, Censorship, and Governance](https://catnip.article19.org/)* (No Starch Press, 2021. ISBN: 9781718500297). [Link to access through ND Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph006167953).
+
+To learn more about markup languages and HTML:
+- James H. Coombs, Allen H. Renear, Steven J. DeRose. (November 1987). "[Markup systems and the future of scholarly text processing](http://xml.coverpages.org/coombs.html)". *Communications of the ACM* 30 (11): 933–947.
+- Tim Bray. (April 2003). "On Semantics and Markup, Taxonomy of Markup". [www.tbray.org/ongoing](http://www.tbray.org/ongoing).
+- W3C, “[Extensible Markup Language (XML)](https://www.w3.org/TR/xml11/)” (16 August 2006)
+- Web Hypertext Application Technology Working Group, “[HTML Living Standard](https://html.spec.whatwg.org/)” (September 2020)
+- Angela M. Haas, “[Wampum as Hypertext: An American Indian Tradition of Multimedia Theory and Practice](https://muse-jhu-edu.proxy.library.nd.edu/article/235980),” *Studies in American Indian Literatures* 19: 4 (2007).
 
 To learn more about how the internet developed over time:
 - Janet Abbate, *[Inventing the Internet](https://mitpress.mit.edu/9780262011723/inventing-the-internet/)* (MIT Press, 1999. ISBN: 0262511150). [Link to access through ND Libraries](https://onesearch.library.nd.edu/permalink/f/7uudnk/TN_cdi_askewsholts_vlebooks_9780262266703).
