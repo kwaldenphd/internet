@@ -628,3 +628,11 @@ Identity and power in online spaces:
 - Marisa Elena Duarte, *Network Sovereignty: Building the Internet Across Indian Country* (University of Washington Press, 2017). [Link to access through ND Libraries](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005407182).
 
 # Lab Notebook Questions
+
+QX: Something with network specs
+
+QX: Something with traceroute
+
+QX: Website
+
+QX: Have you ever created a website before? Have you used a program like WordPress, Weebly, SquareSpace, or Wix? How is this process different? Reflect on the process of creating a website by working directly with the HTML.
