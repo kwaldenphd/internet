@@ -20,6 +20,7 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 
 # Table of Contents
 - [Lecture & Live Coding](#lecture--live-coding)
+- [Key Terms](#key-terms)
 - [Lab Notebook Template](#lab-notebook-template)
 - [Computer Networks](#computer-networks)
 - [The Internet](#the-internet)
@@ -27,7 +28,7 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 - [Additional Resources](#additional-resources)
 - [Lab Notebook Questions](#lab-notebook-questions)
 
-# Lecture & Live Coding
+## Lecture & Live Coding
 
 Throughout this lab, you will see a Panopto icon at the start of select sections.
 
@@ -44,7 +45,11 @@ Example:
   </tr>
   </table>
 
-# Lab Notebook Template
+## Key Terms
+
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+
+## Lab Notebook Template
 
 # Computer Networks
 
@@ -89,6 +94,8 @@ Example:
 
 **Internet of Things**
 - DD
+
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
 ## Comprehension Check
 
@@ -161,6 +168,8 @@ OSI DIAGRAM
 **Open System Interconnection (OSI) Model**
 - DD
 
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+
 ## Comprehension Check
 
 <table>
@@ -215,8 +224,16 @@ DIAGRAM
 **Hypertext Transfer Protocol (HTTP)**
 - DD
 
+**Markup Language**
+- DD
+
 **Hypertext Markup Language (HTML)**
 - DD
+
+**Cascading Style Sheets (CSS)**
+- DD
+
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
 ## Comprehension Check
 
