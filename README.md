@@ -62,8 +62,12 @@ Example:
 
 ## Key Terms
 
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/LAN_WAN.svg?raw=true" width="500"></p>
+
 **Local Area Network (LAN)**
 - "A local area network (LAN) is a computer network that interconnects computers within a limited area such as a residence, school, laboratory, university campus or office building. By contrast, a wide area network (WAN) not only covers a larger geographic distance, but also generally involves leased telecommunication circuits. Ethernet and Wi-Fi are the two most common technologies in use for local area networks" ([Wikipedia](https://en.wikipedia.org/wiki/Local_area_network))
+
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/1973_Ether.png?raw=true" width="500"></p>
 
 **Ethernet**
 - "Ethernet is a family of wired computer networking technologies commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN). It was commercially introduced in 1980 and first standardized in 1983" ([Wikipedia](https://en.wikipedia.org/wiki/Ethernet))
@@ -77,8 +81,12 @@ Example:
 **Hops**
 - "In wired computer networking, including the Internet, a hop occurs when a packet is passed from one network segment to the next. Data packets pass through routers as they travel between source and destination. The hop count refers to the number of network devices through which data passes from source to destination" ([Wikipedia](https://en.wikipedia.org/wiki/Hop_(networking)))
 
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Packet_Switching_Diagram.png?raw=true" width="500"></p>
+
 **Packet Switching**
 - "Packet switching is a method of grouping data that is transmitted over a digital network into packets. Packets are made of a header and a payload. Data in the header are used by networking hardware to direct the packet to its destination where the payload is extracted and used by application software. Packet switching is the primary basis for data communications in computer networks worldwide" ([Wikipedia](https://en.wikipedia.org/wiki/Packet_switching))
+
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Packet_Diagram.png?raw=true" width="500"></p>
 
 **Network Packet**
 - "A network packet is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers" ([Wikipedia](https://en.wikipedia.org/wiki/Network_packet))
@@ -128,14 +136,14 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
 **Internet**
 - "The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies" ([Wikipedia](https://en.wikipedia.org/wiki/Internet))
 
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/LAN_WAN.svg?raw=true" width="500"></p>
+
 **Wide Area Network (WAN)**
 - "A wide area network (WAN) is a telecommunications network that extends over a large geographic area" ([Wikipedia](https://en.wikipedia.org/wiki/Wide_area_network))
 
 **Internet Service Provider (ISP)**
 - "An Internet service provider (ISP) is an organization that provides services for accessing, using, or participating in the Internet. ISPs can be organized in various forms, such as commercial, community-owned, non-profit, or otherwise privately owned" ([Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider))
 - Common commercial ISPs in the U.S. include: AT&T, Verizon, Xfinity, Comcast, Windstream
-
-PACKET SWITCHING DIAGRAM
 
 **Packet Switching**
 - "Packet switching is a method of grouping data that is transmitted over a digital network into packets. Packets are made of a header and a payload. Data in the header are used by networking hardware to direct the packet to its destination where the payload is extracted and used by application software. Packet switching is the primary basis for data communications in computer networks worldwide" ([Wikipedia](https://en.wikipedia.org/wiki/Packet_switching))
@@ -149,12 +157,10 @@ PACKET SWITCHING DIAGRAM
 **Internet Protocol (IP) Address**
 - "An Internet Protocol address (IP address) is a numerical label such as 192.0.2.1 that is connected to a computer network that uses the Internet Protocol for communication. An IP address serves two main functions: network interface identification and location addressing" ([Wikipedia](https://en.wikipedia.org/wiki/IP_address))
 
-PORT DIAGRAM
-
 **Port**
 - "In computer networking, a port is a number assigned to uniquely identify a connection endpoint and to direct data to a specific service. At the software level, within an operating system, a port is a logical construct that identifies a specific process or a type of network service. A port is identified for each transport protocol and address combination by a 16-bit unsigned number, known as the port number. The most common transport protocols that use port numbers are the Transmission Control Protocol (TCP) and the User Datagram Protocol (UDP)" ([Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking)))
 
-DNS TREE
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/DNS_Tree.png?raw=true" width="500"></p>
 
 **Domain Name System (DNS)**
 - "The Domain Name System (DNS) is the hierarchical and decentralized naming system used to identify computers reachable through the Internet or other Internet Protocol (IP) networks" ([Wikipedia](https://en.wikipedia.org/wiki/Domain_Name_System))
@@ -163,7 +169,7 @@ DNS TREE
 - "A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain" ([Wikipedia]())
 - Examples include: `.com`, `.org`, `.edu`
 
-OSI DIAGRAM
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/OS_Model.png?raw=true" width="500"></p>
 
 **Open System Interconnection (OSI) Model**
 - "The Open Systems Interconnection model (OSI model) is a conceptual model that describes the universal standard of communication functions of a telecommunication system or computing system, without any regard to the system's underlying internal technology and specific protocol suites" ([Wikipedia]())
@@ -208,10 +214,12 @@ TRACEROUTE, GET YOUR IP
 
 ## Key Terms
 
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/WWW_Berns_Lee.png?raw=true" width="500"></p>
+
 **World Wide Web (WWW)**
 - "The World Wide Web (WWW), commonly known as the Web, is an information system where documents and other web resources are identified by Uniform Resource Locators (URLs, such as https://www.example.com/), which may be interlinked by hypertext, and are accessible over the Internet. The resources of the WWW are transferred via the Hypertext Transfer Protocol (HTTP) and may be accessed by users by a software application called a web browser and are published by a software application called a web server" ([Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web))
 
-DIAGRAM
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Hypertext.png?raw=true" width="500"></p>
 
 **Hyerlinks & Hypertext**
 - "In computing, a hyperlink, or simply a link, is a reference to data that the user can follow by clicking or tapping. A hyperlink points to a whole document or to a specific element within a document. Hypertext is text with hyperlinks" ([Wikipedia](https://en.wikipedia.org/wiki/Hyperlink))
@@ -220,7 +228,8 @@ DIAGRAM
 - "A web browser (also referred to as an Internet browser or simply a browser) is application software for accessing the World Wide Web or a local website. When a user requests a web page from a particular website, the web browser retrieves the necessary content from a web server and then displays the page on the user's device" ([Wikipedia](https://en.wikipedia.org/wiki/Web_browser))
 - Sample web browsers: Internet Exporer, Microsoft Edge, Mozilla Firefox, Safari, Google Chrome
 
-DIAGRAM
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/URL.png?raw=true" width="500"></p>
+
 **Uniform Resource Locator (URL)**
 - "A Uniform Resource Locator (URL), colloquially termed a web address, is a reference to a web resource that specifies its location on a computer network and a mechanism for retrieving it. A URL is a specific type of Uniform Resource Identifier (URI), although many people use the two terms interchangeably" ([Wikipedia](https://en.wikipedia.org/wiki/URL))
 
@@ -233,6 +242,8 @@ DIAGRAM
 **Markup Language**
 - "In computer text processing, a markup language is a system for annotating a document in a way that is syntactically distinguishable from the text, meaning when the document is processed for display, the markup language is not shown, and is only used to format the text" ([Wikipedia](https://en.wikipedia.org/wiki/Markup_language))
 - [Click here](https://youtu.be/C0ivP3KYO3A) to learn more about markup languages.
+
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/HTML_Tag.png?raw=true" width="500"></p>
 
 **Hypertext Markup Language (HTML)**
 - “HyperText Markup Language, invented by Tim Berners-Lee as the basis for the World Wide Web….based on the international standard SGML (Standardized Generalized Markup Language), which was originally developed for the representation of print documents in electronic form. HTML created a notation for hypertext that has become the global standard, and provided the basis for the standardized linking and display of documents independent of the platform, operating system, and application in which they were created.” (Janet Murray, *[Inventing the Medium: Principles of Interaction Design as a Cultural Practice](https://mitpress.mit.edu/9780262016148/inventing-the-medium/)*, pp. 424)
