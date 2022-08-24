@@ -110,7 +110,7 @@ Example:
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/internet/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScQoRbyDYB2Cisg_AmfMhUqj8qXn0ZbeuembRhQpOnbb64I2g/viewform?usp=sf_link">Computer Networks Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSexiph4YBLk_cvOK6dt0C_4qfiFZ0RfvxUYJFWFdL83msZo_g/viewform?usp=sf_link">Computer Networks Comprehension Check</a></td>
   </tr>
   </table>
 
@@ -169,7 +169,7 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
 - "A top-level domain (TLD) is one of the domains at the highest level in the hierarchical Domain Name System of the Internet after the root domain" ([Wikipedia]())
 - Examples include: `.com`, `.org`, `.edu`
 
-<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/OS_Model.png?raw=true" width="500"></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/OSI_Model.png?raw=true" width="500"></p>
 
 **Open System Interconnection (OSI) Model**
 - "The Open Systems Interconnection model (OSI model) is a conceptual model that describes the universal standard of communication functions of a telecommunication system or computing system, without any regard to the system's underlying internal technology and specific protocol suites" ([Wikipedia]())
@@ -189,7 +189,7 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/internet/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScQoRbyDYB2Cisg_AmfMhUqj8qXn0ZbeuembRhQpOnbb64I2g/viewform?usp=sf_link">The Internet Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdcKWzqImWVevjXXv766giq0E3xwbdsEHV1OvkZmt4YIVhbag/viewform?usp=sf_link">The Internet Comprehension Check</a></td>
   </tr>
   </table>
 
@@ -261,7 +261,7 @@ TRACEROUTE, GET YOUR IP
 <table>
  <tr><td>
 <img src="https://github.com/kwaldenphd/internet/blob/main/images/clipboard.png?raw=true" alt="Clipboard icon" width="50"/></td>
-  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScQoRbyDYB2Cisg_AmfMhUqj8qXn0ZbeuembRhQpOnbb64I2g/viewform?usp=sf_link">The WWW Comprehension Check</a></td>
+  <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSec8RlhNcj9YKG6Fliv3LBm35y4fhO_-mcENs1Vvfe5aHJ6Mw/viewform?usp=sf_link">The WWW Comprehension Check</a></td>
   </tr>
   </table>
 
