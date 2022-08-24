@@ -174,7 +174,7 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
 <p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/OSI_Model.png?raw=true" width="500"></p>
 
 **Open System Interconnection (OSI) Model**
-<ul><li>"The Open Systems Interconnection model (OSI model) is a conceptual model that describes the universal standard of communication functions of a telecommunication system or computing system, without any regard to the system's underlying internal technology and specific protocol suites" ([Wikipedia](https://en.wikipedia.org/wiki/OSI_model))</li>
+<ul><li>"The Open Systems Interconnection model (OSI model) is a conceptual model that describes the universal standard of communication functions of a telecommunication system or computing system, without any regard to the system's underlying internal technology and specific protocol suites" (<a href="https://en.wikipedia.org/wiki/OSI_model">Wikipedia</a>)</li>
  <li>Layers in the OSI Model:</li>
 <ol type="1">
  <li value="7">Application</li>
