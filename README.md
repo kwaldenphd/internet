@@ -198,12 +198,6 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
   </tr>
   </table>
 
-Describe layers of OSI Model
-
-IP address description
-
-Something more technical about packet switching
-
 ## Application
 
 TRACEROUTE, GET YOUR IP
