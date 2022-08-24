@@ -13,6 +13,8 @@
 
 ## Acknowledgements
 
+The section of this lab that involves building a website is based on the "Project 3: HTML/CSS" project materials developed by [Lindsay K. Mattock](http://lindsaymattock.net/) for the the [SLIS 5020 Computing Foundations course](http://lindsaymattock.net/computingfoundations.html). 
+
 This lab's lecture segments were adapted from the following PBS *[Crash Course Computer Science](https://www.pbs.org/show/crash-course-computer-science/)* episodes:
 - "[Computer Networks](https://www.pbs.org/video/computer-networks-crash-course-computer-science-28-dqjdkc/)"
 - "[The Internet](https://www.pbs.org/video/the-internet-crash-course-computer-science-29-oj4vv6/)"
