@@ -301,7 +301,7 @@ HTML is pretty forgiving, but other languages are not, so it’s best to practic
   </tr>
   </table>
 
-FIG A
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Fig_A.png?raw=true" width="500"></p>
 
 Comments are indicated by `<!-- and -->` and are written for the user (not the computer). These special start and end tags tell the computer to ignore what follows. Comments are used to include instructions and explanations about the code in a human-readable form. You can use comments throughout your code to leave notes for yourself or describe what the code is doing (or what you want it to do).
 
@@ -312,7 +312,7 @@ A few other pieces of information Replit has added to this page so we have valid
 
 ### Building Web Pages
 
-PAGE DIAGRAM
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/HTML_Page_Structure.png?raw=true" width="500"></p>
 
 Now that we have a template for a valid, well-formed HTML page, we can start adding content to the page. Between the `<head>` tags you will see a set of `<title>` tags. The `<head>` of the document is reserved for metadata, but also includes the `<title>` of the page which is represented in the tabs in some web browsers. 
 
@@ -334,31 +334,29 @@ A couple things to notice:
 - The line is indented. This isn’t a requirement of HTML, but it is a convention that is used by coders to write cleaner code. The indentation allows you to easily determine what tags are nested within each other. For example, the `<title>` and `<meta>` tags are nested within the `<head>` tags. Now, our `<h1>` is nested within the `<body>`. The use of the tabs simply makes the code easier for us to read, but the computer doesn’t care (with Python the indentation is important and will cause errors if the indents do not appear in the right place).
 - Repl.it has completed your `<h1>` with a closing `</h1>` tag. The closing tag is not required for all HTML tags, but it is good practice to close all of your tags. This is a good example. Without a closing tag, everything that follows will be formatted as a `<h1>`. Some IDEs include an auto-complete function to help you prevent errors in your code and create valid documents.
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_5.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_5.jpg?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_5.jpg?raw=true" width="500"></p>
 
 Go ahead and enter some content between the `<h1>` tags. `<h1>` is preformatted as first level heading text. We’ll see how it looks in a minute. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_6.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_6.jpg?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_6.jpg?raw=true" width="500"></p>
 
 Next add a `<p>` tag and type some text. `<p>` tags are preformatted as paragraphs with padding between paragraphs.
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_J.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_J.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Fig_J.png?raw=true" width="500"></p>
 
-Repl.it has another function that will be helpful as we develop our websites. Click the `Run` button and your `.html` document will display in Replit's web browser.
-
-<blockquote>Repl.it will auto-save your work (like Google Docs). For other IDEs, you can press <code>Control + S</code> to save file updates.</blockquote>
+Repl.it has another function that will be helpful as we develop our websites. Click the `Run` button and your `.html` document will display in Replit's web browser. Repl.it will auto-save your work (like Google Docs). For other IDEs, you can press <code>Control + S</code> to save file updates.
 
 <blockquote><h1>Why <code>index.html</code>?</h1><br><code>index.html</code> is the name of the default landing page for websites. The web server (the computer hosing the site) will automatically recognize <code>index.html</code> as the first page or the home page of a website. Some servers use other variations like <code>home.html</code>, but we’ll use <code>index.html</code>.</blockquote>
 
 We have just created is a single web page. To build a web site, we likely want multiple pages of linked content. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_L.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_L.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Fig_L.png?raw=true" width="500"></p>
 
 Let’s create a second `.html` file by clicking on the `+` "Add File" icon in the upper left-hand corner. Save this file as `page2.html`. 
 
 We can copy the HTML from `index.html` to make sure we're starting with an HTML document that is well-formed and valid.
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_K.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_K.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Fig_K.png?raw=true" width="500"></p>
 
 Add some content to your second page, starting with a title, `<h1>` and `<p>` tags. 
 
@@ -371,7 +369,7 @@ The tag syntax is as follows: `<a href="URL to page">Text that will appear as th
 Below your paragraph tag on the `index.html` page add the line `<a href=”page2.html”>Link to page 2</a>.`
 - Learn more about the `<a href>` tag via W3Schools: http://www.w3schools.com/TAGS/att_a_href.asp
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_10.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_10.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_10.png?raw=true" width="500"></p>
 
 Run `index.html` to see the updated file with a link. When you click on “Link to page 2” your `page2.html` file should open. In this case, our URL to the page in our `<a href>` tags is just the name of new page we created. We do not need a full URL (http://www.somewhere.com) because we are calling a file that is stored in the same directory on our server (the repl).
 - NOTE: If your link is not working, try re-typing the quotation marks around the destination link.
@@ -382,7 +380,7 @@ If we had saved this file to another folder or directory, we would need to inclu
 
 Let’s add an image to the `index.html` page. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_I.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_I.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Fig_I.png?raw=true" width="500"></p>
 
 Find an image that you like on the web, save it to your local computer, and upload the file to your repl. 
 
@@ -394,11 +392,11 @@ The `<img>` tag is very similar to the `<a href>` tag that we just used. It has 
 
 <blockquote>Learn more about the <code>img</code> tag via <a href="http://www.w3schools.com/tags/tag_img.asp">W3Schools</a>.</blockquote>
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_M.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Fig_M.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Fig_M.png?raw=true" width="500"></p>
 
 On your `index.html` page, add the line `<img src="imagefilename" alt=Description of image>` in the `<body>`. Be sure to use your image file name in place of the italicized text above. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_12.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_12.jpg?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_12?raw=true" width="500"></p>
 
 View the page in the Replit browser (using `Run`) to see if the image has loaded correctly.
 
@@ -468,7 +466,7 @@ Add a table to one of your HTML pages (index.html or page2.html). You could crea
 
 HTML allows us to add style to our pages internally, or inline, using HTML tags. We’ve already styled our pages a bit using the `<h1>` tag. `<h1>` designates preformatted text that is larger than the `<p>` or paragraph text. But, what if we want to add color or change the font on our page? 
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_13.jpg?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_13.jpg?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_13.jpg?raw=true" width="500"></p>
 
 We can add style to individual HTML element tags using `style` attributes. The syntax for style attributes is `style="STYLE_PROPERTY:PROPERTY_VALUE;"`
 
@@ -491,7 +489,7 @@ All style elements are enclosed in quotation marks and include a semicolon after
 </body>
 ```
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_14.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_14.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_14.png?raw=true" width="500"></p>
 
 We can see how the style attributes are changing how the web page content displays:
 - The `<h1>` heading has has a blue text color and is center-aligned
@@ -518,7 +516,7 @@ If styles are defined within the document (as in the previous example), then the
 
 Open the `style.css` file already in your repl. The CSS file doesn’t contain any content, it only defines the styles for the various elements in HTML files. 
 
-<p align="center"><a href="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_15.png?raw=true"><img class="aligncenter" src="https://github.com/kwaldenphd/HTML-CSS/blob/master/images/Image_15.png?raw=true" /></a></p>
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_15.png?raw=true" width="500"></p>
 
 Let's get started by adding a few styles for the background, `<h1>`, and `<p>`. Each tag is defined first- these are referred to as the selectors. 
 
@@ -562,9 +560,7 @@ This line can appear anywhere between the `<head>` and `</head>`.
 - The `type` defines the type and `href` contains the URL or location reference for the file.
   * To learn more about the `<link rel>` tag: http://www.w3schools.com/tags/att_link_rel.asp
 
-THIS FIG STAYS
-
-IMAGE 17
+<p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/Image_17.jpg?raw=true" width="500"></p>
 
 Run the `index.html` file in the Replit browser to see the updated CSS. However, if you click on the link to `page2.html`, it will look the same as it did before. This is because we need to link the stylesheet to each of the pages. Add the same `<link rel="stylesheet" type="text/css" href="mystyle.css">` to `page2.html`. Now both pages should share the same style.
 
