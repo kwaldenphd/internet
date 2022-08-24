@@ -21,7 +21,7 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 # Table of Contents
 - [Lecture & Live Coding](#lecture--live-coding)
 - [Key Terms](#key-terms)
-- [Lab Notebook Template](#lab-notebook-template)
+- [Templates](#templates)
 - [Computer Networks](#computer-networks)
 - [The Internet](#the-internet)
 - [The World Wide Web](#the-world-wide-web)
@@ -49,7 +49,11 @@ Example:
 
 [Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
-## Lab Notebook Template
+## Templates
+
+[Link to lab notebook template]() (ND users, Google Doc)
+
+[Link to Replit workspace template]() (ND users, Replit)
 
 # Computer Networks
 
@@ -604,6 +608,8 @@ Interested in learning more about computer networks and the World Wide Web? The 
 - Identity and power in online spaces
 
 # Lab Notebook Questions
+
+[Link to lab notebook template]() (ND users, Google Doc)
 
 QX: Something with network specs
 
