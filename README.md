@@ -120,10 +120,6 @@ Example:
   </tr>
   </table>
 
-What do protocols do
-
-Packet switching in your own words
-
 ## Application
 
 COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
