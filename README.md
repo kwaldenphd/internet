@@ -180,13 +180,13 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
 **Open System Interconnection (OSI) Model**
 - "The Open Systems Interconnection model (OSI model) is a conceptual model that describes the universal standard of communication functions of a telecommunication system or computing system, without any regard to the system's underlying internal technology and specific protocol suites" ([Wikipedia]())
 - Layers in the OSI Model:
-  7. Application
-  6. Presentation
-  5. Session
-  4. Transport
-  3. Network
-  2. Data link
-  1. Physical
+  - 7. Application
+  - 6. Presentation
+  - 5. Session
+  - 4. Transport
+  - 3. Network
+  - 2. Data link
+  - 1. Physical
 
 [Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
 
