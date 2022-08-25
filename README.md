@@ -264,12 +264,6 @@ TRACEROUTE, GET YOUR IP
   </tr>
   </table>
 
-WWW/Internet distinction
-
-Describe hypertext concept in your own words
-
-Describe markup language in your own words
-
 ## Application
 
 ### Well-Formed HTML
