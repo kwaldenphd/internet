@@ -53,7 +53,7 @@ Example:
 
 ## Templates
 
-[Link to lab notebook template]() (ND users, Google Doc)
+[Link to lab notebook template](https://docs.google.com/document/d/1qYZRLlZzbZHCGIJEn4Urvpk9uBHouE_psQCsU61lEvE/copy) (ND users, Google Doc)
 
 [Link to Replit workspace template]() (ND users, Replit)
 
@@ -236,7 +236,13 @@ A couple resources that can help with understanding these results:
 
 ## Application
 
-Q2: TR
+Q3a: Let's use the `ipconfig` to learn more about your computer's network configuration. Open a terminal shell (`Terminal` or `Git BASH`). Type `ipconfig` followed by `Enter`/`Return`.
+
+Q3b: Describe what you're seeing in the `ipconfig` output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
+
+A couple resources that can help with understanding these results:
+- LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
+- Meridian Outpost, "[How to use ipconfig command with examples](https://www.meridianoutpost.com/resources/articles/command-line/ipconfig.php)"
 
 # The World Wide Web 
 
@@ -622,6 +628,12 @@ Also include a link to your Replit project workspace. This link is the URL that 
 - Link template: `https://replit.com/@USERNAME/PROJECTNAME`
 - The link you copy in from Replit should include your username, followed by the project name
 
+### HTML/CSS Lab Notebook Questions
+
+Q4: Include the website you built using HTML and CSS as part of your lab submission. Include a single `.zip` folder as well as a link to the Replit workspace for the website.
+
+Q5: Have you ever created a website before using a program like WordPress, Weebly, SquareSpace, or Wix? How is the process of working directly with the HTML/CSS similar or different? How are you thinking about creating content for the World Wide Web differently after building your own website?
+
 ## Additional Resources
 
 Interested in learning more about computer networks and the World Wide Web? The "[Additional Resources](https://github.com/kwaldenphd/internet/blob/main/additional-resources.md)" page in this repository includes links to a variety of content on...
@@ -632,8 +644,7 @@ Interested in learning more about computer networks and the World Wide Web? The 
 
 # Lab Notebook Questions
 
-[Link to lab notebook template]() (ND users, Google Doc)
-
+[Link to lab notebook template](https://docs.google.com/document/d/1qYZRLlZzbZHCGIJEn4Urvpk9uBHouE_psQCsU61lEvE/copy) (ND users, Google Doc)
 
 Q1a: Let's use the `ping` command for a network test. Open a terminal shell (`Terminal` or `Git BASH`). Type `ping` followed by an IP address. A few you could choose from:
 - OpenDNS: `208.67.222.222` and `208.67.220.220`
@@ -673,6 +684,14 @@ A couple resources that can help with understanding these results:
 - RedHat, "[Traceroute: Finding meaning among the stars](https://www.redhat.com/sysadmin/traceroute-finding-meaning)"
 - InMotion Hosting, "[How to Read a Traceroute](https://www.inmotionhosting.com/support/server/ssh/read-traceroute/)"
 
-QX: Website
+Q3a: Let's use the `ipconfig` to learn more about your computer's network configuration. Open a terminal shell (`Terminal` or `Git BASH`). Type `ipconfig` followed by `Enter`/`Return`.
 
-QX: Have you ever created a website before? Have you used a program like WordPress, Weebly, SquareSpace, or Wix? How is this process different? Reflect on the process of creating a website by working directly with the HTML.
+Q3b: Describe what you're seeing in the `ipconfig` output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
+
+A couple resources that can help with understanding these results:
+- LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
+- Meridian Outpost, "[How to use ipconfig command with examples](https://www.meridianoutpost.com/resources/articles/command-line/ipconfig.php)"
+
+Q4: Include the website you built using HTML and CSS as part of your lab submission. Include a single `.zip` folder as well as a link to the Replit workspace for the website.
+
+Q5: Have you ever created a website before using a program like WordPress, Weebly, SquareSpace, or Wix? How is the process of working directly with the HTML/CSS similar or different? How are you thinking about creating content for the World Wide Web differently after building your own website?
