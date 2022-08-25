@@ -122,7 +122,43 @@ Example:
 
 ## Application
 
-COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
+Q1a: Let's use the `ping` command for a network test. Open a terminal shell (`Terminal` or `Git BASH`). Type `ping` followed by an IP address. A few you could choose from:
+- OpenDNS: `208.67.222.222` and `208.67.220.220`
+- Cloudflare: `1.1.1.1` and `1.0.0.1`
+- Google: `8.8.8.8` and `8.8.4.4`
+
+Sample command for Google:
+```
+ping 8.8.8.8
+```
+
+Press `Enter`/`Return`.
+
+Q1b: Describe what you're seeing in the `ping` command output. What do these results indicate about the network status? A couple resources that can help with understanding these results:
+- IBM, "[`ping` Command](https://www.ibm.com/docs/en/aix/7.1?topic=p-ping-command)"
+- PageDuty, "[How to Ping a Network for Testing Connectivity](https://www.pagerduty.com/resources/learn/ping-network-testing-connectivity/)"
+
+Q2a: Let's run a similar test using the `traceroute` or `tracert` command. Still in the  terminal, type `tracert` followed by a domain name or IP address.
+
+Domain name example:
+```
+tracert google.com
+```
+
+IP address example:
+```
+tracert 8.8.8.8
+```
+
+Press `Enter`/`Return`.
+
+<blockquote>Alternate <code>traceroute</code> workflow for MacOS users: Shaw Support, "<a href="https://support.shaw.ca/t5/internet-articles/how-to-run-a-traceroute-mac-os/ta-p/5053">How to run a Traceroute (Mac OS)</a>."</blockquote>
+
+Q2b: Describe what you're seeing in the `traceroute`/`tracert` program output. What do these results indicate about the network status? How are they similar or different from the `ping` output? 
+
+A couple resources that can help with understanding these results:
+- RedHat, "[Traceroute: Finding meaning among the stars](https://www.redhat.com/sysadmin/traceroute-finding-meaning)"
+- InMotion Hosting, "[How to Read a Traceroute](https://www.inmotionhosting.com/support/server/ssh/read-traceroute/)"
 
 # The Internet
 
@@ -200,7 +236,7 @@ COMPUTER NETWORK HARDWARE SPECS, SOMETHING WITH THE ND NETWORK
 
 ## Application
 
-TRACEROUTE, GET YOUR IP
+Q2: TR
 
 # The World Wide Web 
 
@@ -586,8 +622,6 @@ Also include a link to your Replit project workspace. This link is the URL that 
 - Link template: `https://replit.com/@USERNAME/PROJECTNAME`
 - The link you copy in from Replit should include your username, followed by the project name
 
-BULDING A WEBSITE- COLLABORATIVELY/AS GROUP
-
 ## Additional Resources
 
 Interested in learning more about computer networks and the World Wide Web? The "[Additional Resources](https://github.com/kwaldenphd/internet/blob/main/additional-resources.md)" page in this repository includes links to a variety of content on...
@@ -600,9 +634,44 @@ Interested in learning more about computer networks and the World Wide Web? The 
 
 [Link to lab notebook template]() (ND users, Google Doc)
 
-QX: Something with network specs
 
-QX: Something with traceroute
+Q1a: Let's use the `ping` command for a network test. Open a terminal shell (`Terminal` or `Git BASH`). Type `ping` followed by an IP address. A few you could choose from:
+- OpenDNS: `208.67.222.222` and `208.67.220.220`
+- Cloudflare: `1.1.1.1` and `1.0.0.1`
+- Google: `8.8.8.8` and `8.8.4.4`
+
+Sample command for Google:
+```
+ping 8.8.8.8
+```
+
+Press `Enter`/`Return`.
+
+Q1b: Describe what you're seeing in the `ping` command output. What do these results indicate about the network status? A couple resources that can help with understanding these results:
+- IBM, "[`ping` Command](https://www.ibm.com/docs/en/aix/7.1?topic=p-ping-command)"
+- PageDuty, "[How to Ping a Network for Testing Connectivity](https://www.pagerduty.com/resources/learn/ping-network-testing-connectivity/)"
+
+Q2a: Let's run a similar test using the `traceroute` or `tracert` command. Still in the  terminal, type `tracert` followed by a domain name or IP address.
+
+Domain name example:
+```
+tracert google.com
+```
+
+IP address example:
+```
+tracert 8.8.8.8
+```
+
+Press `Enter`/`Return`.
+
+<blockquote>Alternate <code>traceroute</code> workflow for MacOS users: Shaw Support, "<a href="https://support.shaw.ca/t5/internet-articles/how-to-run-a-traceroute-mac-os/ta-p/5053">How to run a Traceroute (Mac OS)</a>."</blockquote>
+
+Q2b: Describe what you're seeing in the `traceroute`/`tracert` program output. What do these results indicate about the network status? How are they similar or different from the `ping` output? 
+
+A couple resources that can help with understanding these results:
+- RedHat, "[Traceroute: Finding meaning among the stars](https://www.redhat.com/sysadmin/traceroute-finding-meaning)"
+- InMotion Hosting, "[How to Read a Traceroute](https://www.inmotionhosting.com/support/server/ssh/read-traceroute/)"
 
 QX: Website
 
