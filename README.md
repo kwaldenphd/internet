@@ -1,4 +1,4 @@
-# Computer Networks and the Internet
+# Computer Networks & the Internet
 
 <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>This tutorial was written by Katherine Walden and is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
@@ -22,7 +22,7 @@ This lab's lecture segments were adapted from the following PBS *[Crash Course C
 
 # Table of Contents
 - [Lecture & Live Coding](#lecture--live-coding)
-- [Key Terms](#key-terms)
+- [Key Concepts](#key-concepts)
 - [Templates](#templates)
 - [Computer Networks](#computer-networks)
 - [The Internet](#the-internet)
@@ -47,9 +47,9 @@ Example:
   </tr>
   </table>
 
-## Key Terms
+## Key Concepts
 
-[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-concepts.md) for a full list of key concepts and definitions for this lab.
 
 ## Templates
 
@@ -66,7 +66,7 @@ Example:
   </tr>
   </table>
 
-## Key Terms
+## Key Concepts
 
 <p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/LAN_WAN.svg?raw=true" width="500"></p>
 
@@ -109,7 +109,7 @@ Example:
 **Internet of Things**
 - "The Internet of things (IoT) describes physical objects (or groups of such objects) with sensors, processing ability, software, and other technologies that connect and exchange data with other devices and systems over the Internet or other communications networks" ([Wikipedia](https://en.wikipedia.org/wiki/Internet_of_things))
 
-[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-concepts.md) for a full list of key concepts and definitions for this lab.
 
 ## Comprehension Check
 
@@ -169,7 +169,7 @@ A couple resources that can help with understanding these results:
   </tr>
   </table>
 
-## Key Terms
+## Key Concepts
 
 **Internet**
 - "The Internet is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices. It is a network of networks that consists of private, public, academic, business, and government networks of local to global scope, linked by a broad array of electronic, wireless, and optical networking technologies" ([Wikipedia](https://en.wikipedia.org/wiki/Internet))
@@ -223,7 +223,7 @@ A couple resources that can help with understanding these results:
  </ol>
  </ul>
 
-[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-concepts.md) for a full list of key concepts and definitions for this lab.
 
 ## Comprehension Check
 
@@ -249,11 +249,11 @@ A couple resources that can help with understanding these results:
 <table>
  <tr><td>
 <img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
-<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7bacf9bb-6940-44f2-8e90-aef401865c19">Computer Networks</a></td>
+<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7bacf9bb-6940-44f2-8e90-aef401865c19">The World Wide Web</a></td>
   </tr>
   </table>
 
-## Key Terms
+## Key Concepts
 
 <p align="center"><img src="https://github.com/kwaldenphd/internet/blob/main/images/WWW_Berners_Lee.png?raw=true" width="500"></p>
 
@@ -295,7 +295,7 @@ A couple resources that can help with understanding these results:
 **Cascading Style Sheets (CSS)**
 - "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML" ([Wikipedia](https://en.wikipedia.org/wiki/CSS))
 
-[Click here](https://github.com/kwaldenphd/internet/blob/main/key-terms.md) for a full list of key terms and definitions for this lab.
+[Click here](https://github.com/kwaldenphd/internet/blob/main/key-concepts.md) for a full list of key concepts and definitions for this lab.
 
 ## Comprehension Check
 
@@ -307,6 +307,17 @@ A couple resources that can help with understanding these results:
   </table>
 
 ## Application
+
+- [Well-Formed HTML](#well-formed-html)
+- [Building Web Pages](#building-web-pages)
+- [Link Web Pages](#linking-web-pages)
+- [Adding Images](#adding-images)
+- [Building Tables](#building-tables)
+- [Style & Formatting](#style--formatting)
+  * [Cascading Style Sheets (CSS)](#cascading-style-sheets-css)
+- [Putting It All Together](#putting-it-all-together)
+- [HTML/CSS Lab Notebook Questions](#htmlcss-lab-notebook-questions)
+- [Additional Resources](#additional-resources)
 
 ### Well-Formed HTML
 
