@@ -236,9 +236,9 @@ A couple resources that can help with understanding these results:
 
 ## Application
 
-Q3a: Let's use the `ipconfig` to learn more about your computer's network configuration. Open a terminal shell (`Terminal` or `Git BASH`). Type `ipconfig` followed by `Enter`/`Return`.
+Q3a: Let's use the `ipconfig` (Windows) or `ifconfig` (Mac) commands to learn more about your computer's network configuration. Open a terminal shell (`Terminal` or `Git BASH`). Type `ipconfig` (Windows) or `ifconfig` (Mac) followed by `Enter`/`Return`.
 
-Q3b: Describe what you're seeing in the `ipconfig` output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
+Q3b: Describe what you're seeing in the output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
 
 A couple resources that can help with understanding these results:
 - LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
@@ -697,9 +697,9 @@ A couple resources that can help with understanding these results:
 - RedHat, "[Traceroute: Finding meaning among the stars](https://www.redhat.com/sysadmin/traceroute-finding-meaning)"
 - InMotion Hosting, "[How to Read a Traceroute](https://www.inmotionhosting.com/support/server/ssh/read-traceroute/)"
 
-Q3a: Let's use the `ipconfig` to learn more about your computer's network configuration. Open a terminal shell (`Terminal` or `Git BASH`). Type `ipconfig` followed by `Enter`/`Return`.
+Q3a: Let's use the `ipconfig` (Windows) or `ifconfig` (Mac) commands to learn more about your computer's network configuration. Open a terminal shell (`Terminal` or `Git BASH`). Type `ipconfig` (Windows) or `ifconfig` (Mac) followed by `Enter`/`Return`.
 
-Q3b: Describe what you're seeing in the `ipconfig` output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
+Q3b: Describe what you're seeing in the output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
 
 A couple resources that can help with understanding these results:
 - LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
