@@ -637,6 +637,13 @@ Next, you are going to build a website about these items. You need to meet the f
 
 That’s it. You are free to be as creative as you’d like as long as you meet these requirements. As you design your site, the W3Schools [HTML](http://www.w3schools.com/html/) and [CSS](http://www.w3schools.com/css/default.asp) includes tutorials or sample code tutorials for menus, tables, and other elements you could add to your site. Feel free to borrow code and CSS you find on the web (be sure to provide a link back to sources). Have fun and experiment!
 
+<table>
+ <tr><td>
+<img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
+<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9d0322b-e52a-46cc-a7ad-af18015ab0a1">Submitting your website</a></td>
+  </tr>
+  </table>
+
 All the materials for your website (`.html`, `.css`, and image files) can be submitted on Canvas as a single `.zip` folder on Canvas, along with your answers to lab notebook questions.
 
 You can download the entire Replit project by clicking on the "Download as Zip" option under the three dots next to "Files" on the left-hand side of the page.
@@ -714,5 +721,12 @@ A couple resources that can help with understanding these results:
   * Oracle, "[Monitoring the interface with the `ifconfig` command](https://docs.oracle.com/cd/E19253-01/816-4554/ipconfig-141/index.html)"
 
 Q4: Include the website you built using HTML and CSS as part of your lab submission. Include a single `.zip` folder as well as a link to the Replit workspace for the website.
+
+<table>
+ <tr><td>
+<img src="https://elearn.southampton.ac.uk/wp-content/blogs.dir/sites/64/2021/04/PanPan.png" alt="Panopto logo" width="50"/></td>
+<td><a href="https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9d0322b-e52a-46cc-a7ad-af18015ab0a1">Submitting your website</a></td>
+  </tr>
+  </table>
 
 Q5: Have you ever created a website before using a program like WordPress, Weebly, SquareSpace, or Wix? How is the process of working directly with the HTML/CSS similar or different? How are you thinking about creating content for the World Wide Web differently after building your own website?
