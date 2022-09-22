@@ -241,9 +241,12 @@ Q3a: Let's use the `ipconfig` (Windows) or `ifconfig` (Mac) commands to learn mo
 Q3b: Describe what you're seeing in the output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
 
 A couple resources that can help with understanding these results:
-- LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
-- Meridian Outpost, "[How to use ipconfig command with examples](https://www.meridianoutpost.com/resources/articles/command-line/ipconfig.php)"
-- StackExchange, "[MacOS ifconfig output](https://superuser.com/questions/267660/can-someone-please-explain-ifconfig-output-in-mac-os-x)"
+- `ipconfig`
+  * LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
+  * Meridian Outpost, "[How to use ipconfig command with examples](https://www.meridianoutpost.com/resources/articles/command-line/ipconfig.php)"
+- `ifconfig`
+  * StackExchange, "[MacOS ifconfig output](https://superuser.com/questions/267660/can-someone-please-explain-ifconfig-output-in-mac-os-x)"
+  * Oracle, "[Monitoring the interface with the `ifconfig` command](https://docs.oracle.com/cd/E19253-01/816-4554/ipconfig-141/index.html)"
 
 # The World Wide Web 
 
@@ -703,9 +706,12 @@ Q3a: Let's use the `ipconfig` (Windows) or `ifconfig` (Mac) commands to learn mo
 Q3b: Describe what you're seeing in the output. What information are these results providing about your network? How do they connect to concepts covered in this lab?
 
 A couple resources that can help with understanding these results:
-- LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
-- Meridian Outpost, "[How to use ipconfig command with examples](https://www.meridianoutpost.com/resources/articles/command-line/ipconfig.php)"
-- StackExchange, "[MacOS ifconfig output](https://superuser.com/questions/267660/can-someone-please-explain-ifconfig-output-in-mac-os-x)"
+- `ipconfig`
+  * LazyAdmin, "[How to use the ipconfig command and options explained](https://lazyadmin.nl/it/ipconfig-command/)"
+  * Meridian Outpost, "[How to use ipconfig command with examples](https://www.meridianoutpost.com/resources/articles/command-line/ipconfig.php)"
+- `ifconfig`
+  * StackExchange, "[MacOS ifconfig output](https://superuser.com/questions/267660/can-someone-please-explain-ifconfig-output-in-mac-os-x)"
+  * Oracle, "[Monitoring the interface with the `ifconfig` command](https://docs.oracle.com/cd/E19253-01/816-4554/ipconfig-141/index.html)"
 
 Q4: Include the website you built using HTML and CSS as part of your lab submission. Include a single `.zip` folder as well as a link to the Replit workspace for the website.
 
