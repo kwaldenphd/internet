@@ -53,8 +53,6 @@ Example:
 
 [Link to lab notebook template](https://docs.google.com/document/d/1qYZRLlZzbZHCGIJEn4Urvpk9uBHouE_psQCsU61lEvE/copy) (ND users, Google Doc)
 
-[Link to Replit workspace template](https://replit.com/team/eoc-f22/HTMLCSSLab) (ND users, Replit)
-
 # Computer Networks
 
 <table>
