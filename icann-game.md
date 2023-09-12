@@ -64,8 +64,8 @@ Once a secessionist region purchases a TLD, they start playing as a `gTLD`.
 
 # Discussion & Reflection
 
-How was the experience
-What did we learn
-Connect to real-world examples
-What are the concerns/dangers
-What would we need to build better systems
+- How was the experience
+- What did we learn
+- Connect to real-world examples
+- What are the concerns/dangers
+- What would we need to build better systems
