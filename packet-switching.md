@@ -6,9 +6,9 @@ This activity and the related instructional resources are adapted from [Networks
 
 # Table of Contents
 
-- [Setup]
-- [Local Area Networks]
-- [Wide Area Networks]
+- [Setup](#setup)
+- [Local Area Networks](#local-area-networks)
+- [Wide Area Networks](#wide-area-networks)
 - [Discussion & Reflection](#discussion--reflection)
 
 # Setup
