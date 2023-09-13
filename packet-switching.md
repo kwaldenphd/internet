@@ -68,9 +68,11 @@ Rotate roles and run the simulation a few more times so everyone has a chance to
 
 # Discussion & Reflection
 
-What did we learn from this
-- Bottleneck / lags
-- Routing / packet switching
-- Physical infrastructure / network volatility
-- Other things folks want to share
-- Any guesses what’s on your puzzle
+Once we’re at the end of this activity, spend some time in your original LAN group discussing, reflecting, and taking notes on…
+- How did this experience go for you? What was interesting, surprising, unexpected, challenging, fun, etc?
+- How are you thinking about packet switching or networks differently after going through this activity?
+- What have you learned? What isn’t clear? What do you want to know more about?
+- Other comments or questions
+
+If you have extra time…
+- Who’s on your puzzle? What’s the connection with computing or technology history?
