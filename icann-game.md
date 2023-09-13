@@ -64,6 +64,15 @@ Once a secessionist region purchases a TLD, they start playing as a `gTLD`.
 
 # Discussion & Reflection
 
+Once your group has played a few rounds of the game, spend some time discussing, reflecting, and taking notes on…
+- How did this experience go for you? What was interesting, surprising, unexpected, challenging, fun, etc?
+- How are you thinking about DNS systems and internet governance differently after going through this activity?
+- What have you learned? What isn’t clear? What do you want to know more about?
+- Other comments or questions
+
+If you have extra time…
+- What aspects of the [real-world examples](https://docs.google.com/spreadsheets/d/1K88risjOmG48tcczmoCUenD-aAoEFLi65ipTqm9HcuU/edit?usp=sharing) stood out to your group? 
+
 - How was the experience
 - What did we learn
 - Connect to real-world examples
