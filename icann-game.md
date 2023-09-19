@@ -72,9 +72,3 @@ Once your group has played a few rounds of the game, spend some time discussing,
 
 If you have extra time…
 - What aspects of the [real-world examples](https://docs.google.com/spreadsheets/d/1K88risjOmG48tcczmoCUenD-aAoEFLi65ipTqm9HcuU/edit?usp=sharing) stood out to your group? 
-
-- How was the experience
-- What did we learn
-- Connect to real-world examples
-- What are the concerns/dangers
-- What would we need to build better systems
